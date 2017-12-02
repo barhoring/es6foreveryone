@@ -1,0 +1,1 @@
+My solutions for ES6 for everyone by Wes Bos
